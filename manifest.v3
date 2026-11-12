@@ -4,7 +4,7 @@
   <value name="enabled">yes</value>
   <value name="lazy_load">yes</value>
   <value name="system_package">no</value>
-  <value name="version">1.2.1</value>
+  <value name="version">1.1.1</value>
   <value name="name">NewProject_extGitProject</value>
   <null name="startup_services"/>
   <null name="shutdown_services"/>
@@ -20,6 +20,6 @@
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-11-12T09:43:41.470947842Z</value>
+  <value name="lastUpdated">2026-11-12T09:46:09.011574051Z</value>
   <value name="creator">Santhosh K</value>
 </Values>
