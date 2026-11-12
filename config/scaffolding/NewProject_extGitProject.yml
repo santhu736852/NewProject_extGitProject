@@ -1,9 +1,9 @@
 info:
   model: int-scaffold
 packages:
-- gitBranch: main
+- gitBranch: release/1.1.1
   gitServerName: GH_SK_Shared
   gitUrl: https://github.com/santhu736852
   gitUsername: santhu736852
   name: NewProject_extGitProject
-version: '1.0'
+version: 1.1.1
